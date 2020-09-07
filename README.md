@@ -22,7 +22,13 @@ We will:
 - Preprocess webpage images and the code related HTML for this mixed NLP-CV task
 - Build and train the `pix2code` model using Keras and Tensorflow
 - Evaluate our model on the test set
-- 
+
+## Model Architecture for pix2code
+
+implementation of the below Deep learning model can be discovered inside the jupyter notebook
+
+![](https://www.researchgate.net/publication/317087883/figure/fig1/AS:654067554598934@1532953265983/Overview-of-the-pix2code-model-architecture-During-training-the-GUI-screenshot-picture.png)
+
 ## Trained Model Results 
 ![](assets/2.png)
 
