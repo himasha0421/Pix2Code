@@ -30,7 +30,7 @@ We will:
 
 ![](assets/1.png)
 
-* link to index.html file to check the results ![click here](assets/index.html)
-* link to my pretrained model to reproduce the results ![click here](https://drive.google.com/file/d/10P31XQdVFmNimDlV_DbJ-WIdTAlClTI7/view?usp=sharing)
+* link to index.html file to check the results [click here](assets/index.html)
+* link to my pretrained model to reproduce the results [click here](https://drive.google.com/file/d/10P31XQdVFmNimDlV_DbJ-WIdTAlClTI7/view?usp=sharing)
 
 * Try this notebook uer self becuase it's easy to use with googel colab platform and gets your hands dirty .
